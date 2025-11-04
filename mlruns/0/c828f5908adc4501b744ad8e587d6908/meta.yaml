@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c828f5908adc4501b744ad8e587d6908/artifacts
+end_time: 1762163532724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c828f5908adc4501b744ad8e587d6908
+run_name: incongruous-fly-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762163523424
+status: 4
+tags: []
+user_id: prit
