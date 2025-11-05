@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlruns/768467139586583101/e9f789cee39c4cd4b7b5a93360e4ee6f/artifacts
+end_time: 1762232369228
+entry_point_name: ''
+experiment_id: '768467139586583101'
+lifecycle_stage: active
+run_id: e9f789cee39c4cd4b7b5a93360e4ee6f
+run_name: caring-fox-110
+run_uuid: e9f789cee39c4cd4b7b5a93360e4ee6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762232368787
+status: 3
+tags: []
+user_id: prit

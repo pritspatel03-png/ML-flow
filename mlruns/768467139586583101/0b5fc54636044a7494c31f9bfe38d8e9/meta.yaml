@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlruns/768467139586583101/0b5fc54636044a7494c31f9bfe38d8e9/artifacts
+end_time: 1762232467919
+entry_point_name: ''
+experiment_id: '768467139586583101'
+lifecycle_stage: active
+run_id: 0b5fc54636044a7494c31f9bfe38d8e9
+run_name: popular-sheep-198
+run_uuid: 0b5fc54636044a7494c31f9bfe38d8e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762232321077
+status: 3
+tags: []
+user_id: prit

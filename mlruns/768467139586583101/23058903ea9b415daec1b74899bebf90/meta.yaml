@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlruns/768467139586583101/23058903ea9b415daec1b74899bebf90/artifacts
+end_time: 1762232369850
+entry_point_name: ''
+experiment_id: '768467139586583101'
+lifecycle_stage: active
+run_id: 23058903ea9b415daec1b74899bebf90
+run_name: rogue-squirrel-62
+run_uuid: 23058903ea9b415daec1b74899bebf90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762232369617
+status: 3
+tags: []
+user_id: prit

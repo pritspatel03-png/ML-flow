@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlruns/768467139586583101/acf75e74724646e78bdc163adf47ec65/artifacts
+end_time: 1762232370134
+entry_point_name: ''
+experiment_id: '768467139586583101'
+lifecycle_stage: active
+run_id: acf75e74724646e78bdc163adf47ec65
+run_name: merciful-ram-590
+run_uuid: acf75e74724646e78bdc163adf47ec65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762232369888
+status: 3
+tags: []
+user_id: prit

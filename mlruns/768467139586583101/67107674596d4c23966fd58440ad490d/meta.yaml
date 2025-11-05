@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlruns/768467139586583101/67107674596d4c23966fd58440ad490d/artifacts
+end_time: 1762232366596
+entry_point_name: ''
+experiment_id: '768467139586583101'
+lifecycle_stage: active
+run_id: 67107674596d4c23966fd58440ad490d
+run_name: useful-foal-679
+run_uuid: 67107674596d4c23966fd58440ad490d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762232365431
+status: 3
+tags: []
+user_id: prit

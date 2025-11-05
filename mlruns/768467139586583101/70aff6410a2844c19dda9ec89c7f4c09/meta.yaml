@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlruns/768467139586583101/70aff6410a2844c19dda9ec89c7f4c09/artifacts
+end_time: 1762232368699
+entry_point_name: ''
+experiment_id: '768467139586583101'
+lifecycle_stage: active
+run_id: 70aff6410a2844c19dda9ec89c7f4c09
+run_name: stately-duck-543
+run_uuid: 70aff6410a2844c19dda9ec89c7f4c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762232368280
+status: 3
+tags: []
+user_id: prit
